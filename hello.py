@@ -1,4 +1,6 @@
 print("Hello World")
 
 x=8
-print(hello)
+print("hello")
+print("Hii")
+print("Hello")
